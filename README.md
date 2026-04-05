@@ -23,7 +23,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python graph_engine.py
 
-(Ensure your GEMINI_API_KEY is in your .env file before starting the engine. If you are on Windows, use .venv\Scripts\activate to activate the environment).
+(If you are on Windows, use .venv\Scripts\activate to activate the environment).
 The API will start and listen for routing requests on http://localhost:5002.
 
 3. Frontend Setup (React)
