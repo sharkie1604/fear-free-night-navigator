@@ -1,0 +1,6 @@
+flask
+GeoAlchemy2
+networkx
+osmnx
+psycopg2-binary
+SQLAlchemy
